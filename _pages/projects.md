@@ -5,10 +5,12 @@ permalink: /projects/
 author_profile: true
 ---
 
-## Palm tree detection
+## 1. Palm tree detection
 
 
-## Domain adaptation for remote sensing applications
 
 
-## High performance computing for large-scale earth observation data
+## 2. Domain adaptation for remote sensing applications
+
+
+
