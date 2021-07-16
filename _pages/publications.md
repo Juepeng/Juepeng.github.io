@@ -9,9 +9,7 @@ author_profile: true
 
 Journal papers
 ===
----
-excerpt: "<br/><img src='/images/MMD-DRCN.png'>"
----
+"<br/><img src='/images/MMD-DRCN.png'>"
 [3] __Zheng, J.__\*, Wu, W.\*, Yuan, S., Fu, H.#, Li, W., and Yu, L., 2021. Multi-Source-Domain Generalization based Oil Palm Tree Detection Using Very-High-Resolution (VHR) Satellite Images. IEEE Geoscience and Remote Sensing Letters (Early Access), pp.1-5.
 
 [2] __Zheng, J.__, Fu, H., Li, W.#, Wu, W., Yu, L., Yuan, S., Tao, W., Pang, T., and Kanniah, K., 2021. Growing status observation for oil palm trees using Unmanned Aerial Vehicle (UAV) images. ISPRS Journal of Photogrammetry and Remote Sensing, 173, pp.95-121.
