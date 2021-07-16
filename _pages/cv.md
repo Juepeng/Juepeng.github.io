@@ -22,6 +22,6 @@ Work experience
 * 2014.09-2016.09 People's Armed Police, Wuhan, Chin
 
   
-Service and leadership
+Professional experience
 ======
-* Currently signed in to 43 different slack teams
+* Guest Editor of _Remote Sensing_ Special Issue: [https://www.mdpi.com/journal/remotesensing/special_issues/RS_deeplearning](Deep Learning in Remote Sensing Application)
