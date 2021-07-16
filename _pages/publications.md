@@ -11,7 +11,7 @@ Journal papers
 ===
 <br/><img src='/images/MMD-DRCN.png' width = "179" height = "100">
 
-[3] __Zheng, J.__\*, Wu, W.\*, Yuan, S., Fu, H.#, Li, W., and Yu, L., 2021. Multi-Source-Domain Generalization based Oil Palm Tree Detection Using Very-High-Resolution (VHR) Satellite Images. IEEE Geoscience and Remote Sensing Letters (Early Access), pp.1-5. [[Link](https://www.sciencedirect.com/science/article/pii/S0924271620301830)][[Paper](/files/Multisource-Domain Generalization-Based Oil Palm Tree Detection Using Very-High-Resolution (VHR) Satellite Images.pdf)][[Code](https://github.com/rs-dl/MMD-DRCN)]
+[3] __Zheng, J.__\*, Wu, W.\*, Yuan, S., Fu, H.#, Li, W., and Yu, L., 2021. Multi-Source-Domain Generalization based Oil Palm Tree Detection Using Very-High-Resolution (VHR) Satellite Images. IEEE Geoscience and Remote Sensing Letters (Early Access), pp.1-5. [[Paper](https://www.sciencedirect.com/science/article/pii/S0924271620301830)][[PDF]('/files/Multisource-Domain Generalization-Based Oil Palm Tree Detection Using Very-High-Resolution (VHR) Satellite Images.pdf')][[Code](https://github.com/rs-dl/MMD-DRCN)]
 
 <br/><img src='/images/MOPAD_flowchart_new.png' width = "225" height = "100">
 
