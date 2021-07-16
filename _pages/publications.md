@@ -10,11 +10,11 @@ author_profile: true
 ## Journal papers
 <br/><img src='/images/MMD-DRCN.png' width = "179" height = "100">
 
-<font size=1>[3] __Zheng, J.__\*, Wu, W.\*, Yuan, S., Fu, H.#, Li, W., and Yu, L., 2021. Multi-Source-Domain Generalization based Oil Palm Tree Detection Using Very-High-Resolution (VHR) Satellite Images. _IEEE Geoscience and Remote Sensing Letters (Early Access)_, pp.1-5. [[Paper](https://ieeexplore.ieee.org/abstract/document/9373992)][[PDF]('/files/GRSL21-Multisource-Domain.pdf')][[Code](https://github.com/rs-dl/MMD-DRCN)]</font>
+<font size=1>[3] __Zheng, J.__\*, Wu, W.\*, Yuan, S., Fu, H.#, Li, W., and Yu, L., 2021. Multi-Source-Domain Generalization based Oil Palm Tree Detection Using Very-High-Resolution (VHR) Satellite Images. _IEEE Geoscience and Remote Sensing Letters (Early Access)_, pp.1-5.</font> [[Paper](https://ieeexplore.ieee.org/abstract/document/9373992)][[PDF]('/files/GRSL21-Multisource-Domain.pdf')][[Code](https://github.com/rs-dl/MMD-DRCN)]
 
 <br/><img src='/images/MOPAD_flowchart_new.png' width = "225" height = "100">
 
-[2] __Zheng, J.__, Fu, H., Li, W.#, Wu, W., Yu, L., Yuan, S., Tao, W., Pang, T., and Kanniah, K., 2021. Growing status observation for oil palm trees using Unmanned Aerial Vehicle (UAV) images. _ISPRS Journal of Photogrammetry and Remote Sensing_, 173, pp.95-121. [[Paper](https://www.sciencedirect.com/science/article/pii/S0924271621000083)][[PDF]('/files/ISPRS21-Growing.pdf')][[Code](https://github.com/rs-dl/MOPAD)]
+<font size=1>[2] __Zheng, J.__, Fu, H., Li, W.#, Wu, W., Yu, L., Yuan, S., Tao, W., Pang, T., and Kanniah, K., 2021. Growing status observation for oil palm trees using Unmanned Aerial Vehicle (UAV) images. _ISPRS Journal of Photogrammetry and Remote Sensing_, 173, pp.95-121. [[Paper](https://www.sciencedirect.com/science/article/pii/S0924271621000083)][[PDF]('/files/ISPRS21-Growing.pdf')][[Code](https://github.com/rs-dl/MOPAD)]</font>
 
 <br/><img src='/images/MADAN.png' width = "212" height = "100">
 
