@@ -36,7 +36,7 @@ Awards
 
 * Future Researcher Scholarship, Tsinghua University, 2019
 
-* Excellent Undergraduate Student (only 3 of all), Tongji University, 2019
+* Excellent Undergraduate Student (3 of all), Tongji University, 2019
 
 * National Scholarship, Tongji University, 2017
 
