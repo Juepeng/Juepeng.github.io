@@ -35,8 +35,7 @@ author_profile: true
 [1] __Zheng, J.__, Li, W.#, Xia, M., Dong, R., Fu, H. and Yuan, S., 2019, July. Large-Scale Oil Palm Tree Detection from High-Resolution Remote Sensing Images Using Faster-RCNN. In _IGARSS 2019-2019 IEEE International Geoscience and Remote Sensing Symposium_ (pp. 1422-1425). IEEE. [[Paper](https://ieeexplore.ieee.org/abstract/document/8898360)][[PDF]('/files/IGARSS19-LARGE-SCALED.pdf')][[Poster]('/images/Igarss_poster.png')]
 
 
-Preprint/Submission papers
-===
+## Preprint/Submission papers
 [5] __Zheng, J.__, Zhao, Y., Wu, W., Chen, M., Li, W., Fu, H.#, 2021. Partial Domain Adaptation for Scene Classification from Remote Sensing Imagery.
 
 [4] Liu, X., __Zheng, J.__, Yu, L.#, Hao, P., Chen B., Xin, Q., Fu, H., Gong, P., 2021. Annual dynamic dataset of global cropping intensity from 2001 to 2019.
