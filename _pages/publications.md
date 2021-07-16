@@ -17,6 +17,8 @@ Journal papers
 
 [2] __Zheng, J.__, Fu, H., Li, W.#, Wu, W., Yu, L., Yuan, S., Tao, W., Pang, T., and Kanniah, K., 2021. Growing status observation for oil palm trees using Unmanned Aerial Vehicle (UAV) images. ISPRS Journal of Photogrammetry and Remote Sensing, 173, pp.95-121.
 
+<br/><img src='/images/MADAN.png' width = "423" height = "200">
+
 [1] __Zheng, J.__, Fu, H., Li, W.#, Wu, W., Zhao, Y., Dong, R. and Yu, L., 2020. Cross-regional oil palm tree counting and detection via a multi-level attention domain adaptation network. ISPRS Journal of Photogrammetry and Remote Sensing, 167, pp.154-177.
 
 
