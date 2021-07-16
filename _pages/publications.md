@@ -9,7 +9,7 @@ author_profile: true
 
 Journal papers
 ===
-<br/><img src='/images/MMD-DRCN.png' width = "400" height = "200">
+<br/><img src='/images/MMD-DRCN.png' width = "357" height = "200">
 
 [3] __Zheng, J.__\*, Wu, W.\*, Yuan, S., Fu, H.#, Li, W., and Yu, L., 2021. Multi-Source-Domain Generalization based Oil Palm Tree Detection Using Very-High-Resolution (VHR) Satellite Images. IEEE Geoscience and Remote Sensing Letters (Early Access), pp.1-5.
 
