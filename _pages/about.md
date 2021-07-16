@@ -19,10 +19,10 @@ News
 
 Jul  5, 2021   We organize a special issue named "Deep Learning in Remote Sensing Application" on _Remote Sensing_ Journal. [[Link](https://www.mdpi.com/journal/remotesensing/special_issues/RS_deeplearning)]
 
-Feb 19, 2021   One paper is accepted by IEEE Geoscience and Remote Sensing Letters. [[Link](https://ieeexplore.ieee.org/abstract/document/9373992/)]
+Feb 19, 2021   One paper is accepted by _IEEE Geoscience and Remote Sensing Letters_! [[Link](https://ieeexplore.ieee.org/abstract/document/9373992/)]
 
-Jan  6, 2021   One paper is accepted by ISPRS Journal of Photogrammetry and Remote Sensing! [[Link](https://www.sciencedirect.com/science/article/pii/S0924271621000083)]
+Jan  6, 2021   One paper is accepted by _ISPRS Journal of Photogrammetry and Remote Sensing_! [[Link](https://www.sciencedirect.com/science/article/pii/S0924271621000083)]
 
-Jul  7, 2021   One paper is accepted by ISPRS Journal of Photogrammetry and Remote Sensing! [[Link](https://www.sciencedirect.com/science/article/pii/S0924271620301830)]
+Jul  7, 2021   One paper is accepted by _ISPRS Journal of Photogrammetry and Remote Sensing_! [[Link](https://www.sciencedirect.com/science/article/pii/S0924271620301830)]
 
-Apr 16, 2020   One paper is accepted by IEEE CVPR Agriculture-Vision Workshop 2020 (oral)! [[Link](https://openaccess.thecvf.com/content_CVPRW_2020/html/w5/Wu_Cross-Regional_Oil_Palm_Tree_Detection_CVPRW_2020_paper.html)]
+Apr 16, 2020   One paper is accepted by _IEEE CVPR Agriculture-Vision Workshop 2020_ (oral)! [[Link](https://openaccess.thecvf.com/content_CVPRW_2020/html/w5/Wu_Cross-Regional_Oil_Palm_Tree_Detection_CVPRW_2020_paper.html)]
