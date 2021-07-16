@@ -24,4 +24,4 @@ Work experience
   
 Professional experience
 ======
-* Guest Editor of _Remote Sensing_ Special Issue: [https://www.mdpi.com/journal/remotesensing/special_issues/RS_deeplearning](#Deep Learning in Remote Sensing Application)
+* Guest Editor of _Remote Sensing_ Special Issue: [Deep Learning in Remote Sensing Application](https://www.mdpi.com/journal/remotesensing/special_issues/RS_deeplearning)
