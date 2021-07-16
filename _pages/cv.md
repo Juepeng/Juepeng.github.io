@@ -25,3 +25,7 @@ Work experience
 Professional experience
 ======
 * Guest Editor of _Remote Sensing_ Special Issue: [Deep Learning in Remote Sensing Application](https://www.mdpi.com/journal/remotesensing/special_issues/RS_deeplearning)
+
+* Reviewer for the following journals:
+  * Geocarto International
+  * International Journal of Remote Sensing
