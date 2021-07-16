@@ -24,9 +24,15 @@ Journal papers
 
 Conference papers
 ===
+<br/><img src='/images/igarss_TSAN_figure.png' width = "293" height = "200">
+
 [3] __Zheng, J.__, Wu, W., Fu, H.#, Li, W., Dong, R., Zhang, L., and Yuan, S., 2020, August. Unsupervised Mixed Multi-Target Domain Adaptation for Remote Sensing Images Classification. In IGARSS 2020-2020 IEEE International Geoscience and Remote Sensing Symposium (pp. 1381-1384). IEEE.
 
+<br/><img src='/images/CVPRW-flowchart.png' width = "560" height = "200">
+
 [2] Wu, W.\*, __Zheng, J.__\*, Fu, H.#, Li, W. and Yu, L., 2020, June. Cross-Regional Oil Palm Tree Detection. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (pp. 248-257).
+
+<br/><img src='/images/igarss19.png' width = "341" height = "200">
 
 [1] __Zheng, J.__, Li, W.#, Xia, M., Dong, R., Fu, H. and Yuan, S., 2019, July. Large-Scale Oil Palm Tree Detection from High-Resolution Remote Sensing Images Using Faster-RCNN. In IGARSS 2019-2019 IEEE International Geoscience and Remote Sensing Symposium (pp. 1422-1425). IEEE.
 
