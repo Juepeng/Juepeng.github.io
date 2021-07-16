@@ -19,7 +19,7 @@ Work experience
 ======
 * 2021.03-present National Supercomputing Center in Wuxi, Wuxi, China
 
-* 2014.09-2016.09 People's Armed Police, Wuhan, Chin
+* 2014.09-2016.09 People's Armed Police, Wuhan, China
 
   
 Professional experience
