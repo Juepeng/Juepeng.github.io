@@ -13,6 +13,8 @@ Journal papers
 
 [3] __Zheng, J.__\*, Wu, W.\*, Yuan, S., Fu, H.#, Li, W., and Yu, L., 2021. Multi-Source-Domain Generalization based Oil Palm Tree Detection Using Very-High-Resolution (VHR) Satellite Images. IEEE Geoscience and Remote Sensing Letters (Early Access), pp.1-5.
 
+<br/><img src='/images/MOPAD_flowchart_new.png.png' width = "350" height = "786">
+
 [2] __Zheng, J.__, Fu, H., Li, W.#, Wu, W., Yu, L., Yuan, S., Tao, W., Pang, T., and Kanniah, K., 2021. Growing status observation for oil palm trees using Unmanned Aerial Vehicle (UAV) images. ISPRS Journal of Photogrammetry and Remote Sensing, 173, pp.95-121.
 
 [1] __Zheng, J.__, Fu, H., Li, W.#, Wu, W., Zhao, Y., Dong, R. and Yu, L., 2020. Cross-regional oil palm tree counting and detection via a multi-level attention domain adaptation network. ISPRS Journal of Photogrammetry and Remote Sensing, 167, pp.154-177.
