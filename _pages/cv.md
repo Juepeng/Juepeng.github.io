@@ -11,21 +11,15 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* 2019.09-present Department of Earth System Science, Tsinghua University, Beijing, China
+
+* 2013.09-2019.07 College of Surveying and Geo-Informatics, Tongji University, Shanghai, China
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2021.03-present National Supercomputing Center in Wuxi, Wuxi, China
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2014.09-2016.09 People's Armed Police, Wuhan, Chin
 
   
 Service and leadership
